@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ishan Chamika</h1>
 <h3 align="center">Passionate Computer Science Student | Exploring Software Engineering & Emerging Tech</h3>
