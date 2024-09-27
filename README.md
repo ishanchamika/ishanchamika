@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ishanchami9@gmail.com**
 
-- ⚡ Fun fact **Ctrl + Z is my best friend!**
+- ⚡ **Ctrl + Z is my best friend!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
